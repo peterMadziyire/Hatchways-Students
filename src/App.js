@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import React, {useState, useEffect} from "react";
-import axios from 'axios';
+
 import './App.css';
 import Spinner from 'react-bootstrap/Spinner';
 import Container from 'react-bootstrap/Container';
