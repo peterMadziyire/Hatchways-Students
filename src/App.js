@@ -205,8 +205,7 @@ useEffect(()=>{
       
               :'Loading...'}
           
-          {studentInfo[0].city}
-          Edit <code>src/App.js</code> and save to reload.
+         
         
         <a
           className="App-link"
